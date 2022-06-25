@@ -1,0 +1,11 @@
+body {
+    background: #fff;
+}
+#bg-img {
+    height: 300px;
+    width: 100%;
+    margin-top: 1px;
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
